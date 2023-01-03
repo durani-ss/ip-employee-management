@@ -1,2 +1,2 @@
 # ip-employee-management
-emp management project. easy to understand and use
+# emp management project. easy to understand and use
